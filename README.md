@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # Remixfy v3
 
@@ -10,7 +10,11 @@
 
 </div>
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 ## Overview
 
@@ -21,14 +25,22 @@ Remixfy v3 is not a prompt wrapper. It is a **hybrid rule-based + neural generat
 - **6 independent validators** that enforce structure, rhyme, rhythm, and beat alignment
 - **Automatic retry** with constraint-specific LLM feedback on validation failure
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 ## Core Idea
 
-> The LLM is one component, not the system.  
+> The LLM is one component, not the system.
 > Raw generation is validated, scored, and refined by deterministic engines that understand music structure.
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 ## System Architecture
 
@@ -69,30 +81,49 @@ User Input (artist, genre, themes, BPM, emotion)
 └─────────────────────────────────────────┘
 ```
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 ## Key Components
 
+&nbsp;
+
 ### Style & Persona
+
 - **Style Embedding Engine** — Mean corpus embedding (384-dim, MiniLM) per artist; biases retrieval 60/40 topic/style
 - **Persona Engine** — Word-frequency analysis → archetype classification (romantic antihero / unstoppable boss / street philosopher)
 - **Delivery Simulation** — Pause ratio, breath intervals, delivery style (rapid fire / controlled / lyrical)
 
+&nbsp;
+
 ### Flow Analysis
+
 - **Flow Cluster Engine** — KMeans (scikit-learn) clusters corpus lines into 4 flow types: short, question-driven, aggressive, narrative
 - **Neural Flow Engine** — Syllable-level profiling: avg syllables, pause ratio, dominant bar pattern (e.g., `4-3-4`)
 - **Flow Pattern Extractor** — Break style detection, punchline position identification from line-length distributions
 
+&nbsp;
+
 ### Generation Control
+
 - **Semantic Vector Store** — `all-MiniLM-L6-v2` embeddings + `NearestNeighbors` (cosine); multi-query deduplication
 - **Emotion Curve Engine** — Maps intensity (1–10) to per-section emotional roles (narration → explosion → peak)
 - **Stage Energy Engine** — Numeric energy scores per section: Verse1=4, Chorus=8, Bridge=3, Final=10
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 ## Rhyme & Flow System
 
 Three-layer post-generation rhyme stack:
+
+&nbsp;
 
 | Layer | Engine | Method |
 |-------|--------|--------|
@@ -100,11 +131,17 @@ Three-layer post-generation rhyme stack:
 | 2 | Neural Rhyme Engine | Phonetic similarity beyond character matching |
 | 3 | Rhyme Quality Engine | Density + internal rhyme detection |
 
+&nbsp;
+
 Pre-generation: **Multi Rhyme Engine** mines the corpus for recurring 4-char suffix patterns (≥3 occurrences) and injects them as rhyme suggestions.
 
 Each failed layer triggers a **targeted retry** — the LLM receives specific feedback ("rhyme density was 28%, increase to ≥40%") rather than a generic re-prompt.
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 ## BPM & Rhythm
 
@@ -116,11 +153,17 @@ Each failed layer triggers a **targeted retry** — the LLM receives specific fe
 | 125–139 | Fast trap | 9–12 |
 | 140+ | Double-time | 8–11 |
 
+&nbsp;
+
 - **Syllable Analyzer** validates ≥40% of lines fall within BPM-derived range
 - **Beat Grid Engine** checks alignment against 4/4 time signature grid
 - **Beat Emphasis Engine** maps kick (beat 1) and snare (beat 3) positions to word-stress patterns
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 ## Example Output
 
@@ -154,7 +197,11 @@ Sokaklar konuşur biz susarız dinleriz
 
 *Visible rhyme pairs: karanlıkta/sarılıkta · asla/fazla · keskin/gerçeksin · dinleriz/yenilmeyiz*
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 ## Tech Stack
 
@@ -168,7 +215,11 @@ Sokaklar konuşur biz susarız dinleriz
 | Validation | Pydantic v2 |
 | Data | 289 artist profiles + lyric corpora |
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 ## How to Run
 
@@ -189,7 +240,11 @@ uvicorn app.main:app --reload
 # → POST /remix, GET /artists, GET /health
 ```
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 ## Why This Project Matters
 
@@ -197,7 +252,11 @@ Most "AI lyric generators" are single-prompt LLM calls with no structural awaren
 
 Remixfy treats lyrics as a **constrained optimization problem** — the output must simultaneously satisfy structural, phonetic, rhythmic, and stylistic constraints. This is closer to how music is actually composed: within rules, not without them.
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 ## Limitations
 
@@ -205,7 +264,11 @@ Remixfy treats lyrics as a **constrained optimization problem** — the output m
 - **Beat alignment is approximate** — syllable counting via vowel detection, not a phonological model
 - **LLM dependency** — generation requires OpenAI API; 1–5s latency per attempt, retries add cost
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 ## Vision
 
@@ -213,11 +276,14 @@ Lyrics are layer one. The architecture is designed to extend toward **flow timin
 
 The goal: an AI system that understands music as structure, not just text.
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 <div align="center">
 
 **Remixfy v3** · 2024–2026
 
 </div>
-]]>
