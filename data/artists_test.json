@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Ceza",
+    "genre": "rap",
+    "era": "old",
+    "dna": {
+      "signature_energy": "Patlayıcı enerji. Hız ve teknik ustalık bir arada, nefes kesici delivery. Duygusal renk: intense, rebellious. Klasik okul disipliniyle şekilleniyor.",
+      "cadence_pattern": "Hızlı choppy kadans. Yoğun hece akışı, nefes kontrolü kritik. Kelimeler üst üste yığılır.",
+      "word_texture": "Yoğun kelime dokusu. Çok heceli sözcükler, argo+edebi karışım, slang katmanları. Her satır bilgi yüklü.",
+      "theme_bias": [
+        "direniş",
+        "sokak hayatı",
+        "Türk kimliği",
+        "sokak hayatı",
+        "para hırsı"
+      ],
+      "ego_vulnerability_ratio": "60/40",
+      "hook_style": "Verse-driven yapı, hook minimalist ama anlam yüklü.",
+      "typical_imagery": [
+        "boş caddeler",
+        "asfalt çatlakları",
+        "beton duvarlar",
+        "yıkık binalar",
+        "demir kapılar"
+      ],
+      "style_fragments": [
+        "beton duvarlar aydınlatamaz bu karanlık benim",
+        "Her gece beton duvarlar içinde kayboldum ama döndüm",
+        "demir kapılar geride kaldı şimdi zirvedeyim",
+        "Kimse durduramaz beni direniş kanımda akar",
+        "Güçlü görünüyorum ama para hırsı içimi kemiriyor",
+        "Bu yolda tek başıma yürüdüm Türk kimliği rehberim",
+        "Her düşüşte kalktım sokak hayatı beni ayağa dikti",
+        "Kafamdaki fırtına demir kapılar kadar karanlık"
+      ],
+      "style_imprint_lines": [
+        "Karanlıkta akıyor heceler, zamanı büküyor",
+        "Yıkık apartmanlar suskun, adım yankı bırakır",
+        "Çatlak camda geçmişin izleri, titrek nefesler",
+        "Rüzgar gibi geçerim aralıksız kelimeyle yarış",
+        "Diken üstünde uyku, gözler açık duvara bakar",
+        "Sert ritimle kırarım zincirsiz kuralları",
+        "Gölgeler saklar hikâyeyi, sokak sabaha küser",
+        "Hırsın ateşiyle yanar çocukluk anıları",
+        "Kırılmış bir pusula döner avuç içinde",
+        "Ters akıntıda yüzmek alışkanlık olmuş bana",
+        "Her satırda meydan okur karanlığa cesaretim",
+        "Suskun şehirde yankılanır direnişin sesi"
+      ]
+    }
+  },
+  {
+    "name": "Sagopa Kajmer",
+    "genre": "rap",
+    "era": "old",
+    "dna": {
+      "signature_energy": "Derin düşünce enerjisi. Her satır felsefi ağırlık taşıyor, dinleyiciyi zorluyor. Duygusal renk: melancholic, introspective. Klasik okul disipliniyle şekilleniyor.",
+      "cadence_pattern": "Şiirsel kadans. Ölçülü akış, stratejik duraklamalar, edebi ritim. Her kelime tartılmış.",
+      "word_texture": "Yoğun kelime dokusu. Çok heceli sözcükler, argo+edebi karışım, slang katmanları. Her satır bilgi yüklü.",
+      "theme_bias": [
+        "varoluş",
+        "yalnızlık",
+        "felsefe",
+        "sokak hayatı",
+        "para hırsı"
+      ],
+      "ego_vulnerability_ratio": "30/70",
+      "hook_style": "Anlatı odaklı, hook kısa bir nefes molası gibi.",
+      "typical_imagery": [
+        "siyah örtüler",
+        "kırık aynalar",
+        "yıkık binalar",
+        "asfalt çatlakları",
+        "kanlı eldivenler"
+      ],
+      "style_fragments": [
+        "kanlı eldivenler sessizliğinde kükreyen bir ses var",
+        "Herkes kaçarken ben asfalt çatlakları yürüdüm dümdüz",
+        "Sessiz fırtına gibi geldim asfalt çatlakları titredi",
+        "Beton üstünde doğdum sokak hayatı ruhuma işledi",
+        "Bu yolda tek başıma yürüdüm para hırsı rehberim",
+        "Her gece yıkık binalar içinde kayboldum ama döndüm",
+        "Soğuk bakışlarımın arkasında felsefe yatar",
+        "para hırsı için yandım ama küle dönmedim"
+      ],
+      "style_imprint_lines": [
+        "Siyaha bürünmüş aynada kendimi tarttım",
+        "Yıkık duvarlarda yankılanan eski cümlelerim",
+        "Gölgemin altında solmuş bir umut bekliyor",
+        "Ruhumun çatlağında geceyi biriktiriyorum",
+        "Felsefeyle yoğrulmuş yalnızlık, cebimde kırıntı",
+        "Zihin labirentinde yolumu kaybettim yine",
+        "Kan kokulu eldiven, sessizlikte konuşur bazen",
+        "Para gölgemi uzattı, ben kısaldım içimde",
+        "Düşüncelerim ağır, kaldırmıyor bu şehir beni",
+        "Her köşe başında başka bir varoluş sancısı",
+        "Çatılmış kaşlarımda puslu sabah tortusu var",
+        "Geçmişin aynasında tozlu bir özlem saklı"
+      ]
+    }
+  },
+  {
+    "name": "Şehinşah",
+    "genre": "rap",
+    "era": "middle",
+    "dna": {
+      "signature_energy": "Dengeli ama etkili enerji. Kontrollü güç, doğru anlarda patlayan yoğunluk. Duygusal renk: aggressive, confrontational.",
+      "cadence_pattern": "Agresif kadans. Sert vurgular, yüksek enerji, bas-ağırlıklı delivery. Punchline'lar çekiç gibi iner.",
+      "word_texture": "Yoğun kelime dokusu. Çok heceli sözcükler, argo+edebi karışım, slang katmanları. Her satır bilgi yüklü.",
+      "theme_bias": [
+        "ego",
+        "hakimiyet",
+        "battle rap",
+        "sokak hayatı",
+        "para hırsı"
+      ],
+      "ego_vulnerability_ratio": "85/15",
+      "hook_style": "Kısa ve sert, 4-5 kelimelik vurucu slogan tarzı hook.",
+      "typical_imagery": [
+        "hız yapan arabalar",
+        "duman bulutları",
+        "grafiti duvarlar",
+        "kayıp gençlik",
+        "gece sokakları"
+      ],
+      "style_fragments": [
+        "Her gece kayıp gençlik içinde kayboldum ama döndüm",
+        "Sessiz fırtına gibi geldim kayıp gençlik titredi",
+        "Alev alev yandım ama sokak hayatı söndüremedi",
+        "sokak hayatı benim hikayem duvarlardan oku",
+        "Her adımda iz bıraktım kayıp gençlik şahit",
+        "Gecenin çocuğuyum grafiti duvarlar tanıkım benim",
+        "Bazen yoruluyorum ama ego bırakmama izin vermez",
+        "duman bulutları arasında büyüdüm ben farklı geldim"
+      ],
+      "style_imprint_lines": [
+        "Hızın gölgesinde kayıp harfler dans eder",
+        "Paranın peşinde yanan köhne ruhlarım",
+        "Yan aynada kendi hayalime küfrediyorum",
+        "Dumanla örtülü, gecenin gözleri uyanık",
+        "Çatlak duvarlarda hakikat kırıntıları saklı",
+        "Sözlerimden kurşun dökülür, hedefini şaşmaz",
+        "Aklımda yarış, egom turbo vites takar",
+        "Geceyle kavgalı, kalbimde paslı zincirler yok",
+        "Şehir uyurken ben satırda patlarım",
+        "Rakiplerin korkusu gri bulut gibi çöker",
+        "Kayıp gençliğin izinde puslu bir öfke var",
+        "Grafiti imzam, zamanın alnında yara gibi"
+      ]
+    }
+  }
+]

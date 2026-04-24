@@ -1,0 +1,4626 @@
+[
+  {
+    "name": "Ceza",
+    "genre": "rap",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Ultra-fast choppy flow with aggressive breath control",
+      "rhyme_complexity": "high",
+      "emotional_tone": "intense, rebellious",
+      "common_themes": [
+        "resistance",
+        "street life",
+        "Turkish identity"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Sagopa Kajmer",
+    "genre": "rap",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Poetic, layered flow with philosophical pauses",
+      "rhyme_complexity": "high",
+      "emotional_tone": "melancholic, introspective",
+      "common_themes": [
+        "existentialism",
+        "loneliness",
+        "philosophy"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Şehinşah",
+    "genre": "rap",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Hard-hitting punchline delivery with sharp enunciation",
+      "rhyme_complexity": "high",
+      "emotional_tone": "aggressive, confrontational",
+      "common_themes": [
+        "ego",
+        "dominance",
+        "battle rap"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Ezhel",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Melodic reggae-infused rap with laid-back cadence",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "chill, rebellious",
+      "common_themes": [
+        "freedom",
+        "youth culture",
+        "urban life"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Ben Fero",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Energetic trap flow with ad-libs and autotuned hooks",
+      "rhyme_complexity": "low",
+      "emotional_tone": "hype, playful",
+      "common_themes": [
+        "flex",
+        "nightlife",
+        "hedonism"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Contra",
+    "genre": "rap",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Lyrical storytelling flow with vivid imagery",
+      "rhyme_complexity": "high",
+      "emotional_tone": "dark, thoughtful",
+      "common_themes": [
+        "social injustice",
+        "personal struggle",
+        "street stories"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Khontkar",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Mumble-influenced melodic trap with wavy delivery",
+      "rhyme_complexity": "low",
+      "emotional_tone": "moody, atmospheric",
+      "common_themes": [
+        "isolation",
+        "vices",
+        "youth angst"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Norm Ender",
+    "genre": "rap",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Technical boom-bap flow with precise syllable control",
+      "rhyme_complexity": "high",
+      "emotional_tone": "confident, assertive",
+      "common_themes": [
+        "skill",
+        "competition",
+        "self-belief"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Hidra",
+    "genre": "rap",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Dense multi-syllabic rhyme patterns with intense delivery",
+      "rhyme_complexity": "high",
+      "emotional_tone": "angry, passionate",
+      "common_themes": [
+        "battle rap",
+        "personal conflict",
+        "resilience"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Allame",
+    "genre": "rap",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Rhythmic old-school flow with social commentary",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "serious, grounded",
+      "common_themes": [
+        "society",
+        "ethics",
+        "daily grind"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Joker",
+    "genre": "rap",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Aggressive trap-influenced flow with raw energy",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "dark, menacing",
+      "common_themes": [
+        "street credibility",
+        "power",
+        "violence"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Sansar Salvo",
+    "genre": "rap",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Gritty underground flow with raw punchlines",
+      "rhyme_complexity": "high",
+      "emotional_tone": "aggressive, unfiltered",
+      "common_themes": [
+        "street survival",
+        "authenticity",
+        "hustle"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Massaka",
+    "genre": "rap",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Hardcore aggressive delivery with shock value",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "violent, provocative",
+      "common_themes": [
+        "gangsta life",
+        "confrontation",
+        "fearlessness"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Anıl Piyancı",
+    "genre": "rap",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Smooth melodic flow blending singing and rapping",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "emotional, romantic",
+      "common_themes": [
+        "love",
+        "heartbreak",
+        "nostalgia"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Stabil",
+    "genre": "rap",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Dark atmospheric flow with measured pacing",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "brooding, cold",
+      "common_themes": [
+        "alienation",
+        "urban decay",
+        "inner demons"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "No.1",
+    "genre": "rap",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Versatile delivery switching between melodic and hard bars",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "confident, charismatic",
+      "common_themes": [
+        "success",
+        "ambition",
+        "lifestyle"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Patron",
+    "genre": "rap",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Street-savvy flow with catchy melodic hooks",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "energetic, bold",
+      "common_themes": [
+        "street pride",
+        "brotherhood",
+        "resilience"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Rota",
+    "genre": "rap",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Conscious lyrical flow with measured delivery",
+      "rhyme_complexity": "high",
+      "emotional_tone": "reflective, empathetic",
+      "common_themes": [
+        "social awareness",
+        "humanity",
+        "hope"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Defkhan",
+    "genre": "rap",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Quick-witted battle flow with clever wordplay",
+      "rhyme_complexity": "high",
+      "emotional_tone": "witty, sharp",
+      "common_themes": [
+        "competition",
+        "lyrical supremacy",
+        "ego"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Ados",
+    "genre": "rap",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Punchy boom-bap style with crisp articulation",
+      "rhyme_complexity": "high",
+      "emotional_tone": "focused, determined",
+      "common_themes": [
+        "craft",
+        "lyricism",
+        "dedication"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Kamufle",
+    "genre": "rap",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Melodic trap fusion with catchy refrains",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "upbeat, confident",
+      "common_themes": [
+        "ambition",
+        "grind",
+        "celebration"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Server Uraz",
+    "genre": "rap",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Old-school storytelling flow with clear diction",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "calm, narrative",
+      "common_themes": [
+        "daily life",
+        "observations",
+        "commentary"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Baneva",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Emotive melodic rap with pop-crossover appeal",
+      "rhyme_complexity": "low",
+      "emotional_tone": "romantic, sentimental",
+      "common_themes": [
+        "love",
+        "longing",
+        "relationships"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Çağrı Sinci",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Energetic new-school delivery with trap beats",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "hype, playful",
+      "common_themes": [
+        "fun",
+        "youth",
+        "energy"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Motive",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Hard drill-influenced flow with London-style cadence",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "cold, aggressive",
+      "common_themes": [
+        "street life",
+        "loyalty",
+        "danger"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "UZI",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Autotuned melodic trap with signature vocal bends",
+      "rhyme_complexity": "low",
+      "emotional_tone": "moody, atmospheric",
+      "common_themes": [
+        "flex",
+        "nightlife",
+        "emotional detachment"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Lvbel C5",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "High-energy trap with distinctive vocal style",
+      "rhyme_complexity": "low",
+      "emotional_tone": "hype, chaotic",
+      "common_themes": [
+        "wealth",
+        "status",
+        "adrenaline"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Blok3",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Dark drill flow with menacing undertones",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "threatening, cold",
+      "common_themes": [
+        "street warfare",
+        "territory",
+        "survival"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Heijan",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Melodic arabesk-rap fusion with emotional delivery",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "melancholic, passionate",
+      "common_themes": [
+        "heartbreak",
+        "betrayal",
+        "struggle"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Mero",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "German-Turkish melodic rap with catchy pop hooks",
+      "rhyme_complexity": "low",
+      "emotional_tone": "upbeat, emotional",
+      "common_themes": [
+        "identity",
+        "love",
+        "diaspora experience"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Murda",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Dutch-Turkish trap with dark atmospheric production",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "dark, hypnotic",
+      "common_themes": [
+        "diaspora",
+        "duality",
+        "night scenes"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Tankurt Mansen",
+    "genre": "rap",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Technical lyrical flow with complex rhyme schemes",
+      "rhyme_complexity": "high",
+      "emotional_tone": "intellectual, sharp",
+      "common_themes": [
+        "wordplay",
+        "skill",
+        "metaphor"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Şanışer",
+    "genre": "rap",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Emotional storytelling with raw vocal delivery",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "vulnerable, honest",
+      "common_themes": [
+        "depression",
+        "relationships",
+        "self-reflection"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Aspova",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Aggressive new-school flow with hard-hitting bars",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "intense, confrontational",
+      "common_themes": [
+        "dominance",
+        "battle",
+        "confidence"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Ati242",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Trap-pop hybrid with melodic hooks and ad-libs",
+      "rhyme_complexity": "low",
+      "emotional_tone": "chill, stylish",
+      "common_themes": [
+        "lifestyle",
+        "fashion",
+        "vibes"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Sehabe",
+    "genre": "rap",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Conscious poetic flow with literary references",
+      "rhyme_complexity": "high",
+      "emotional_tone": "thoughtful, melancholic",
+      "common_themes": [
+        "society",
+        "politics",
+        "human condition"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Tepki",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Versatile delivery blending drill and melodic trap",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "energetic, adaptive",
+      "common_themes": [
+        "ambition",
+        "competition",
+        "growth"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Zen-G",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Boom-bap revival flow with modern production",
+      "rhyme_complexity": "high",
+      "emotional_tone": "focused, competitive",
+      "common_themes": [
+        "lyricism",
+        "authenticity",
+        "technique"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Saian",
+    "genre": "rap",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Political underground flow with fierce delivery",
+      "rhyme_complexity": "high",
+      "emotional_tone": "angry, revolutionary",
+      "common_themes": [
+        "politics",
+        "resistance",
+        "class struggle"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Da Poet",
+    "genre": "rap",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Melodic hook-driven style with crossover appeal",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "smooth, catchy",
+      "common_themes": [
+        "romance",
+        "nightlife",
+        "confidence"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Maestro",
+    "genre": "rap",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Pioneer old-school flow with foundational style",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "nostalgic, proud",
+      "common_themes": [
+        "origins",
+        "culture",
+        "legacy"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Killa Hakan",
+    "genre": "rap",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "German-Turkish gangsta rap with hard delivery",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "aggressive, street",
+      "common_themes": [
+        "diaspora struggle",
+        "gang culture",
+        "identity"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Fuat",
+    "genre": "rap",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Underground boom-bap pioneer with raw lyricism",
+      "rhyme_complexity": "high",
+      "emotional_tone": "raw, authentic",
+      "common_themes": [
+        "underground culture",
+        "hip-hop roots",
+        "resistance"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Mode XL",
+    "genre": "rap",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Jazz-influenced lyrical flow with complex bars",
+      "rhyme_complexity": "high",
+      "emotional_tone": "intellectual, smooth",
+      "common_themes": [
+        "philosophy",
+        "art",
+        "consciousness"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Leşker Asakir",
+    "genre": "rap",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Political charged rapid delivery with dense content",
+      "rhyme_complexity": "high",
+      "emotional_tone": "furious, revolutionary",
+      "common_themes": [
+        "politics",
+        "oppression",
+        "activism"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Gazapizm",
+    "genre": "rap",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Emotional melodic flow with anthemic hooks",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "passionate, empowering",
+      "common_themes": [
+        "perseverance",
+        "struggle",
+        "hope"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Sokrat St",
+    "genre": "rap",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Chill melodic flow with positive energy",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "warm, optimistic",
+      "common_themes": [
+        "positivity",
+        "growth",
+        "gratitude"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Kayra",
+    "genre": "rap",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Dense lyrical underground flow with complex wordplay",
+      "rhyme_complexity": "high",
+      "emotional_tone": "dark, cerebral",
+      "common_themes": [
+        "existentialism",
+        "art",
+        "subconsciousness"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Yener Çevik",
+    "genre": "rap",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Street storytelling with gritty realism",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "raw, emotional",
+      "common_themes": [
+        "poverty",
+        "neighborhood",
+        "survival"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Tahribad-ı İsyan",
+    "genre": "rap",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Political collective flow with punk energy",
+      "rhyme_complexity": "high",
+      "emotional_tone": "rebellious, radical",
+      "common_themes": [
+        "revolution",
+        "anarchism",
+        "social justice"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Reckol",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Dark melodic trap flow with autotuned hooks",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "moody, aggressive",
+      "common_themes": [
+        "street life",
+        "hustle",
+        "nightlife"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Poizi",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Energetic trap flow with hard-hitting punchlines",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "intense, confrontational",
+      "common_themes": [
+        "dominance",
+        "street credibility",
+        "ambition"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Era7capone",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Dark drill-influenced flow with menacing delivery",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "cold, threatening",
+      "common_themes": [
+        "street warfare",
+        "loyalty",
+        "survival"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Can7",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Aggressive trap-drill hybrid with raw energy",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "fierce, unapologetic",
+      "common_themes": [
+        "territory",
+        "pride",
+        "danger"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Jagged",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Melodic rap with emotional vocal bends",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "emotional, atmospheric",
+      "common_themes": [
+        "heartbreak",
+        "longing",
+        "urban life"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Manifest",
+    "genre": "rap",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Lyrical conscious flow with technical precision",
+      "rhyme_complexity": "high",
+      "emotional_tone": "thoughtful, sharp",
+      "common_themes": [
+        "social commentary",
+        "wordplay",
+        "self-reflection"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Alizade",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Melodic trap-pop crossover with catchy refrains",
+      "rhyme_complexity": "low",
+      "emotional_tone": "vibrant, playful",
+      "common_themes": [
+        "lifestyle",
+        "romance",
+        "flex"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "M Lisa",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Aggressive female rap with bold delivery",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "fierce, empowered",
+      "common_themes": [
+        "female power",
+        "independence",
+        "attitude"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "UZ4Y",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Futuristic trap flow with spacey production",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "dark, atmospheric",
+      "common_themes": [
+        "isolation",
+        "night scenes",
+        "introspection"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Batuflex",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "High-energy rage trap with explosive delivery",
+      "rhyme_complexity": "low",
+      "emotional_tone": "hype, chaotic",
+      "common_themes": [
+        "adrenaline",
+        "wealth",
+        "nightlife"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Aslar",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Melodic trap with emotional hooks and ad-libs",
+      "rhyme_complexity": "low",
+      "emotional_tone": "moody, trendy",
+      "common_themes": [
+        "modern love",
+        "vices",
+        "youth culture"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Lessio",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Dark atmospheric trap with hypnotic cadence",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "brooding, cold",
+      "common_themes": [
+        "alienation",
+        "ambition",
+        "inner demons"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Astral",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Experimental trap-rap with genre-bending production",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "ethereal, innovative",
+      "common_themes": [
+        "cosmos",
+        "identity",
+        "futurism"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Doğu Swag",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Energetic new-school flow with swagger-heavy delivery",
+      "rhyme_complexity": "low",
+      "emotional_tone": "confident, playful",
+      "common_themes": [
+        "flex",
+        "lifestyle",
+        "fun"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Jeff Redd",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Melodic drill-trap flow with dark undertones",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "cold, menacing",
+      "common_themes": [
+        "street life",
+        "loyalty",
+        "danger"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Ahiyan",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Hard-hitting drill flow with aggressive bars",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "dark, confrontational",
+      "common_themes": [
+        "territory",
+        "street warfare",
+        "power"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Eray067",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Raw street-rap flow with gritty delivery",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "intense, unfiltered",
+      "common_themes": [
+        "street credibility",
+        "hustle",
+        "survival"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Mansur",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Melodic trap flow with emotive vocal layers",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "melancholic, atmospheric",
+      "common_themes": [
+        "heartbreak",
+        "night scenes",
+        "introspection"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Kavak",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Versatile new-school rap with melodic hooks",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "adaptive, energetic",
+      "common_themes": [
+        "ambition",
+        "growth",
+        "youth"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Keskin",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Sharp lyrical flow with cutting punchlines",
+      "rhyme_complexity": "high",
+      "emotional_tone": "aggressive, witty",
+      "common_themes": [
+        "competition",
+        "lyrical supremacy",
+        "battle rap"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Wegh",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Dark experimental trap with distorted vocals",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "haunting, chaotic",
+      "common_themes": [
+        "inner turmoil",
+        "alienation",
+        "nocturnal life"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Bege",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Melodic trap-rap flow with emotional auto-tuned hooks",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "moody, introspective",
+      "common_themes": [
+        "heartbreak",
+        "street life",
+        "ambition"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Organize",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Hard-hitting collective rap with aggressive delivery",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "fierce, confrontational",
+      "common_themes": [
+        "street credibility",
+        "brotherhood",
+        "dominance"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Enes Batur",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "YouTuber-turned-rapper with trap-pop crossover appeal",
+      "rhyme_complexity": "low",
+      "emotional_tone": "hype, playful",
+      "common_themes": [
+        "flex",
+        "social media fame",
+        "youth culture"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "El Musto",
+    "genre": "rap",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Aggressive street-rap flow with raw gritty delivery",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "intense, unapologetic",
+      "common_themes": [
+        "street life",
+        "hustle",
+        "authenticity"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Tarkan",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Powerful vocal runs with danceable pop phrasing",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "sensual, energetic",
+      "common_themes": [
+        "love",
+        "desire",
+        "celebration"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Sezen Aksu",
+    "genre": "pop",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Emotionally rich vocal delivery with dramatic phrasing",
+      "rhyme_complexity": "high",
+      "emotional_tone": "passionate, poetic",
+      "common_themes": [
+        "love",
+        "loss",
+        "Turkish identity"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Ajda Pekkan",
+    "genre": "pop",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Elegant diva-style delivery with disco-pop energy",
+      "rhyme_complexity": "low",
+      "emotional_tone": "glamorous, confident",
+      "common_themes": [
+        "beauty",
+        "independence",
+        "nightlife"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Mustafa Sandal",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Rhythmic pop-dance vocal with international polish",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "upbeat, charismatic",
+      "common_themes": [
+        "love",
+        "freedom",
+        "fun"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Hadise",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "High-energy dance-pop vocals with Belgian influence",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "fiery, playful",
+      "common_themes": [
+        "empowerment",
+        "romance",
+        "confidence"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Serdar Ortaç",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Catchy pop melodies with arabesk undertones",
+      "rhyme_complexity": "low",
+      "emotional_tone": "romantic, dramatic",
+      "common_themes": [
+        "heartbreak",
+        "passion",
+        "longing"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Demet Akalın",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Bold pop delivery with tabloid personality",
+      "rhyme_complexity": "low",
+      "emotional_tone": "sassy, dramatic",
+      "common_themes": [
+        "breakup",
+        "independence",
+        "attitude"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Gülşen",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Versatile vocal with provocative stage presence",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "bold, sensual",
+      "common_themes": [
+        "desire",
+        "empowerment",
+        "nightlife"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Murat Boz",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Smooth R&B-inflected pop vocals",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "romantic, cool",
+      "common_themes": [
+        "love",
+        "attraction",
+        "modern romance"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Kenan Doğulu",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Upbeat pop-funk delivery with stage energy",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "joyful, groovy",
+      "common_themes": [
+        "happiness",
+        "love",
+        "summer"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "İrem Derici",
+    "genre": "pop",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Youthful pop vocal with emotional range",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "emotional, relatable",
+      "common_themes": [
+        "heartbreak",
+        "youth",
+        "vulnerability"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Simge",
+    "genre": "pop",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Catchy electro-pop delivery with modern production",
+      "rhyme_complexity": "low",
+      "emotional_tone": "playful, trendy",
+      "common_themes": [
+        "crushes",
+        "fun",
+        "social media era"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Hande Yener",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Edgy pop-dance vocal with reinvention cycles",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "fierce, cutting-edge",
+      "common_themes": [
+        "independence",
+        "sensuality",
+        "reinvention"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Bengü",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Powerful ballad vocals with pop accessibility",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "emotional, dramatic",
+      "common_themes": [
+        "love",
+        "sacrifice",
+        "longing"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Ebru Gündeş",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Pop-arabesk fusion vocal with emotional depth",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "melancholic, powerful",
+      "common_themes": [
+        "heartbreak",
+        "devotion",
+        "fate"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "İzel",
+    "genre": "pop",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "90s pop vocal with nostalgic charm",
+      "rhyme_complexity": "low",
+      "emotional_tone": "sweet, nostalgic",
+      "common_themes": [
+        "young love",
+        "innocence",
+        "memories"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Sertab Erener",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Operatic pop crossover with world music elements",
+      "rhyme_complexity": "high",
+      "emotional_tone": "ethereal, powerful",
+      "common_themes": [
+        "spirituality",
+        "love",
+        "cultural fusion"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Merve Özbey",
+    "genre": "pop",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Rich ballad vocal with arabesk pop sensibility",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "soulful, emotional",
+      "common_themes": [
+        "unrequited love",
+        "pain",
+        "resilience"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Aleyna Tilki",
+    "genre": "pop",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Youthful viral pop with Gen-Z appeal",
+      "rhyme_complexity": "low",
+      "emotional_tone": "bright, energetic",
+      "common_themes": [
+        "youth",
+        "dreams",
+        "self-expression"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Oğuzhan Koç",
+    "genre": "pop",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Charismatic pop vocal with commercial appeal",
+      "rhyme_complexity": "low",
+      "emotional_tone": "upbeat, charming",
+      "common_themes": [
+        "romance",
+        "fun",
+        "optimism"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Buray",
+    "genre": "pop",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Emotional pop vocal with folk pop undertones",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "warm, sincere",
+      "common_themes": [
+        "love",
+        "nostalgia",
+        "small-town life"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Murat Dalkılıç",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Smooth dance-pop vocal with club appeal",
+      "rhyme_complexity": "low",
+      "emotional_tone": "cool, romantic",
+      "common_themes": [
+        "nightlife",
+        "attraction",
+        "modern love"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Ece Seçkin",
+    "genre": "pop",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "High-energy dance-pop with viral choreography",
+      "rhyme_complexity": "low",
+      "emotional_tone": "fun, sassy",
+      "common_themes": [
+        "empowerment",
+        "dancing",
+        "attitude"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Edis",
+    "genre": "pop",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Polished pop vocal with international ambition",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "stylish, emotional",
+      "common_themes": [
+        "romance",
+        "longing",
+        "sophistication"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Derya Uluğ",
+    "genre": "pop",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Powerful vocal range with emotional intensity",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "dramatic, vulnerable",
+      "common_themes": [
+        "heartbreak",
+        "strength",
+        "transformation"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Sefo",
+    "genre": "pop",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Rap-pop crossover with melodic hooks",
+      "rhyme_complexity": "low",
+      "emotional_tone": "moody, trendy",
+      "common_themes": [
+        "modern love",
+        "city life",
+        "melancholy"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Irmak Arıcı",
+    "genre": "pop",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Gentle pop vocal with viral ballad appeal",
+      "rhyme_complexity": "low",
+      "emotional_tone": "soft, romantic",
+      "common_themes": [
+        "love",
+        "innocence",
+        "devotion"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Bilal Sonses",
+    "genre": "pop",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Emotional pop vocal with arabesk crossover",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "heartfelt, dramatic",
+      "common_themes": [
+        "breakup",
+        "regret",
+        "yearning"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Semicenk",
+    "genre": "pop",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Arabesk-pop fusion vocal with Gen-Z relatability",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "melancholic, passionate",
+      "common_themes": [
+        "toxic love",
+        "obsession",
+        "pain"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Yıldız Tilbe",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Fiery vocal with arabesk-pop diva energy",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "passionate, fierce",
+      "common_themes": [
+        "jealousy",
+        "love",
+        "betrayal"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Sibel Can",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Warm vocal blending pop and Turkish classical",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "elegant, emotional",
+      "common_themes": [
+        "love",
+        "devotion",
+        "grace"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Ziynet Sali",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Versatile pop vocal with ethnic pop elements",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "joyful, warm",
+      "common_themes": [
+        "happiness",
+        "love",
+        "life celebration"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Nil Karaibrahimgil",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Quirky singer-songwriter pop with wit",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "playful, clever",
+      "common_themes": [
+        "everyday life",
+        "humor",
+        "relationships"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Nazan Öncel",
+    "genre": "pop",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Pioneering pop-rock songwriter vocal",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "witty, bold",
+      "common_themes": [
+        "female perspective",
+        "independence",
+        "satire"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Emre Aydın",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Rock-pop crossover vocal with emotional depth",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "melancholic, introspective",
+      "common_themes": [
+        "loneliness",
+        "regret",
+        "lost love"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Özcan Deniz",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Romantic pop vocal with cinematic appeal",
+      "rhyme_complexity": "low",
+      "emotional_tone": "tender, dramatic",
+      "common_themes": [
+        "deep love",
+        "sacrifice",
+        "fate"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Gökhan Tepe",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Smooth romantic pop vocal",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "gentle, sincere",
+      "common_themes": [
+        "devotion",
+        "romance",
+        "fidelity"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Mabel Matiz",
+    "genre": "pop",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Alternative pop vocal with dark romantic edges",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "haunting, poetic",
+      "common_themes": [
+        "obsessive love",
+        "melancholy",
+        "darkness"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Zeynep Bastık",
+    "genre": "pop",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Powerful pop vocal with cover-to-original crossover",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "energetic, bold",
+      "common_themes": [
+        "empowerment",
+        "love",
+        "resilience"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Göksel",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Warm acoustic pop vocal with understated elegance",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "calm, thoughtful",
+      "common_themes": [
+        "quiet love",
+        "nature",
+        "simplicity"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Berkay",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Rock-pop vocal with arena-sized hooks",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "passionate, anthemic",
+      "common_themes": [
+        "love",
+        "strength",
+        "dedication"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Sinan Akçıl",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Producer-pop vocalist with hit-making formula",
+      "rhyme_complexity": "low",
+      "emotional_tone": "catchy, commercial",
+      "common_themes": [
+        "summer love",
+        "party",
+        "flirtation"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Tan Taşçı",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Smooth pop vocal with club-friendly production",
+      "rhyme_complexity": "low",
+      "emotional_tone": "cool, relaxed",
+      "common_themes": [
+        "attraction",
+        "nightlife",
+        "romance"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Rafet El Roman",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Ballad-heavy pop vocal with cinematic emotion",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "dramatic, romantic",
+      "common_themes": [
+        "epic love",
+        "separation",
+        "destiny"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Sıla",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Soulful pop vocal with jazz-tinged phrasing",
+      "rhyme_complexity": "high",
+      "emotional_tone": "deep, passionate",
+      "common_themes": [
+        "complex love",
+        "independence",
+        "self-discovery"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Hande Ünsal",
+    "genre": "pop",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Modern pop vocal with R&B influence",
+      "rhyme_complexity": "low",
+      "emotional_tone": "sultry, trendy",
+      "common_themes": [
+        "attraction",
+        "confidence",
+        "nightlife"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Gülçin Ergül",
+    "genre": "pop",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Clear pop vocal with genuine emotion",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "warm, honest",
+      "common_themes": [
+        "friendship",
+        "growth",
+        "love"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Pınar Süer",
+    "genre": "pop",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Soft pop vocal with intimate delivery",
+      "rhyme_complexity": "low",
+      "emotional_tone": "gentle, dreamy",
+      "common_themes": [
+        "daydreams",
+        "tenderness",
+        "calm love"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Serhat Durmuş",
+    "genre": "pop",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Electronic pop producer-vocalist with viral appeal",
+      "rhyme_complexity": "low",
+      "emotional_tone": "atmospheric, hypnotic",
+      "common_themes": [
+        "digital age",
+        "isolation",
+        "trance"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Yalın",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Acoustic pop vocal with Mediterranean warmth",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "sunny, romantic",
+      "common_themes": [
+        "summer",
+        "joy",
+        "simple love"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Aydın Kurtoğlu",
+    "genre": "pop",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Emotional pop-arabesk vocal with modern production",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "passionate, dramatic",
+      "common_themes": [
+        "heartbreak",
+        "devotion",
+        "longing"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Ayşe Hatun Önal",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Dance-pop vocal with glamorous stage presence",
+      "rhyme_complexity": "low",
+      "emotional_tone": "energetic, bold",
+      "common_themes": [
+        "empowerment",
+        "nightlife",
+        "confidence"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Ersay Üner",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Smooth pop vocal with romantic balladry",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "tender, romantic",
+      "common_themes": [
+        "deep love",
+        "devotion",
+        "sincerity"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Linet",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Powerful diva-style pop vocal with arabesk crossover",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "fierce, emotional",
+      "common_themes": [
+        "empowerment",
+        "heartbreak",
+        "resilience"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Çağla",
+    "genre": "pop",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Modern viral pop vocal with Gen-Z appeal",
+      "rhyme_complexity": "low",
+      "emotional_tone": "playful, trendy",
+      "common_themes": [
+        "social media",
+        "fun",
+        "modern romance"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Deeprise",
+    "genre": "pop",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Electronic-pop producer-vocalist with tropical house influence",
+      "rhyme_complexity": "low",
+      "emotional_tone": "upbeat, summery",
+      "common_themes": [
+        "summer vibes",
+        "freedom",
+        "good times"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Aynur Aydın",
+    "genre": "pop",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Versatile pop vocal with dance-pop energy and R&B flair",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "bold, sensual",
+      "common_themes": [
+        "empowerment",
+        "romance",
+        "nightlife"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Tuğba Yurt",
+    "genre": "pop",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Emotional pop vocal with heartfelt ballad delivery",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "romantic, vulnerable",
+      "common_themes": [
+        "heartbreak",
+        "longing",
+        "deep love"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "İbrahim Tatlıses",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Powerful operatic arabesk wail with mountainous range",
+      "rhyme_complexity": "low",
+      "emotional_tone": "anguished, passionate",
+      "common_themes": [
+        "unrequited love",
+        "fate",
+        "rural nostalgia"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Müslüm Gürses",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Raw guttural vocal with devastating emotional delivery",
+      "rhyme_complexity": "low",
+      "emotional_tone": "tormented, tragic",
+      "common_themes": [
+        "suffering",
+        "alcohol",
+        "doomed love"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Orhan Gencebay",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Technical saz-driven vocal with classical Turkish mastery",
+      "rhyme_complexity": "high",
+      "emotional_tone": "philosophical, sorrowful",
+      "common_themes": [
+        "destiny",
+        "God",
+        "love as suffering"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Ferdi Tayfur",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Trembling emotional vocal with cinematic melodrama",
+      "rhyme_complexity": "low",
+      "emotional_tone": "heartbroken, desperate",
+      "common_themes": [
+        "impossible love",
+        "poverty",
+        "class divide"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Bergen",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Piercing soprano arabesk with tragic autobiography",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "anguished, defiant",
+      "common_themes": [
+        "abuse",
+        "betrayal",
+        "survival"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Bülent Ersoy",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Grand diva vocal with Ottoman classical crossover",
+      "rhyme_complexity": "high",
+      "emotional_tone": "majestic, emotional",
+      "common_themes": [
+        "devotion",
+        "sacrifice",
+        "grandeur"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Azer Bülbül",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Street-level arabesk with raw authentic delivery",
+      "rhyme_complexity": "low",
+      "emotional_tone": "desperate, raw",
+      "common_themes": [
+        "poverty",
+        "broken dreams",
+        "abandonment"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Mahsun Kırmızıgül",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Melodramatic vocal with cinematic storytelling",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "sentimental, nostalgic",
+      "common_themes": [
+        "village life",
+        "migration",
+        "lost innocence"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Küçük Emrah",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Child-prodigy vocal evolved into mature arabesk",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "melancholic, yearning",
+      "common_themes": [
+        "orphanhood",
+        "loneliness",
+        "longing for family"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Hakkı Bulut",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Gravelly working-class vocal with genuine pain",
+      "rhyme_complexity": "low",
+      "emotional_tone": "bitter, resigned",
+      "common_themes": [
+        "class struggle",
+        "alcohol",
+        "failed love"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Kibariye",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Powerful female vocal with festive arabesk energy",
+      "rhyme_complexity": "low",
+      "emotional_tone": "lively, passionate",
+      "common_themes": [
+        "women's strength",
+        "love",
+        "celebration"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Latif Doğan",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Smooth arabesk vocal with Anatolian folk blend",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "warm, sincere",
+      "common_themes": [
+        "homeland",
+        "love",
+        "tradition"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Ceylan",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "High-pitched emotional vocal with dramatic staging",
+      "rhyme_complexity": "low",
+      "emotional_tone": "tearful, theatrical",
+      "common_themes": [
+        "betrayal",
+        "jealousy",
+        "heartbreak"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Ebru Yaşar",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Modern arabesk-pop vocal with polished production",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "glamorous, emotional",
+      "common_themes": [
+        "passionate love",
+        "beauty",
+        "strength"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Alişan",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Warm arabesk-pop crossover with commercial appeal",
+      "rhyme_complexity": "low",
+      "emotional_tone": "romantic, accessible",
+      "common_themes": [
+        "devotion",
+        "family",
+        "loyalty"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "İzzet Yıldızhan",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Traditional arabesk vocal with rural authenticity",
+      "rhyme_complexity": "low",
+      "emotional_tone": "nostalgic, earthy",
+      "common_themes": [
+        "village memories",
+        "mother",
+        "homeland"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Ankaralı Namık",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Ankara-style pop-arabesk with festive energy",
+      "rhyme_complexity": "low",
+      "emotional_tone": "joyful, communal",
+      "common_themes": [
+        "celebration",
+        "friendship",
+        "rakı nights"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Nihat Doğan",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Intense arabesk vocal with tabloid persona",
+      "rhyme_complexity": "low",
+      "emotional_tone": "dramatic, aggressive",
+      "common_themes": [
+        "obsessive love",
+        "revenge",
+        "pride"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "İsmail YK",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Pop-arabesk hybrid with youth-oriented appeal",
+      "rhyme_complexity": "low",
+      "emotional_tone": "angsty, dramatic",
+      "common_themes": [
+        "teen heartbreak",
+        "jealousy",
+        "rebellion"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Serkan Kaya",
+    "genre": "arabesk",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Modern arabesk vocal with clean production",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "romantic, smooth",
+      "common_themes": [
+        "love declarations",
+        "devotion",
+        "modern tradition"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Murat Kekilli",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Rock-arabesk fusion vocal with raw edge",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "intense, rebellious",
+      "common_themes": [
+        "injustice",
+        "passion",
+        "defiance"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Burhan Çaçan",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Classic arabesk vocal with traditional orchestration",
+      "rhyme_complexity": "low",
+      "emotional_tone": "sorrowful, dignified",
+      "common_themes": [
+        "separation",
+        "loyalty",
+        "endurance"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Gökhan Doğanay",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Street arabesk with rough-edged sincerity",
+      "rhyme_complexity": "low",
+      "emotional_tone": "raw, emotional",
+      "common_themes": [
+        "poverty",
+        "abandonment",
+        "street wisdom"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Ümit Besen",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Smooth romantic arabesk with pop crossover charm",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "tender, elegant",
+      "common_themes": [
+        "romantic devotion",
+        "gentle love",
+        "nostalgia"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Coşkun Sabah",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Classic arabesk vocal with 80s production",
+      "rhyme_complexity": "low",
+      "emotional_tone": "wistful, romantic",
+      "common_themes": [
+        "lost love",
+        "memories",
+        "regret"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Mine Koşan",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Delicate female arabesk vocal with classical training",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "graceful, sad",
+      "common_themes": [
+        "feminine pain",
+        "sacrifice",
+        "devotion"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Niran Ünsal",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Powerful arabesk-pop female vocal",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "fierce, emotional",
+      "common_themes": [
+        "independence",
+        "heartbreak",
+        "resilience"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Güllü",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Traditional arabesk vocal with tearful delivery",
+      "rhyme_complexity": "low",
+      "emotional_tone": "sorrowful, gentle",
+      "common_themes": [
+        "abandonment",
+        "tears",
+        "longing"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Nur Yoldaş",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Majestic old-school arabesk with orchestral backing",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "grand, tragic",
+      "common_themes": [
+        "epic love stories",
+        "fate",
+        "dramatic sacrifice"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Bedia Akartürk",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Folk-arabesk crossover vocal with Anatolian roots",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "warm, earthy",
+      "common_themes": [
+        "homeland",
+        "tradition",
+        "mother's love"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Neşe Karaböcek",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Distinctive vibrato-heavy vocal with vintage charm",
+      "rhyme_complexity": "low",
+      "emotional_tone": "dramatic, theatrical",
+      "common_themes": [
+        "doomed romance",
+        "tears",
+        "passion"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Haktan",
+    "genre": "arabesk",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Modern street arabesk with urban edge",
+      "rhyme_complexity": "low",
+      "emotional_tone": "gritty, emotional",
+      "common_themes": [
+        "urban struggle",
+        "loyalty",
+        "broken trust"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Cansever",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Romani-influenced arabesk with festive flair",
+      "rhyme_complexity": "low",
+      "emotional_tone": "energetic, joyful",
+      "common_themes": [
+        "celebration",
+        "love",
+        "Romani culture"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Metin Şentürk",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Dramatic arabesk-pop vocal with theatrical delivery",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "dramatic, inspirational",
+      "common_themes": [
+        "overcoming adversity",
+        "love",
+        "determination"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Muazzez Ersoy",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Classical Turkish arabesk vocal with conservatory training",
+      "rhyme_complexity": "high",
+      "emotional_tone": "refined, melancholic",
+      "common_themes": [
+        "classical love poetry",
+        "devotion",
+        "elegance"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Yıldız Tezcan",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Golden-era arabesk vocal with cinematic presence",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "romantic, cinematic",
+      "common_themes": [
+        "film love stories",
+        "sacrifice",
+        "beauty"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Selami Şahin",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Smooth crooner arabesk with Istanbul nightclub charm",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "suave, romantic",
+      "common_themes": [
+        "love confessions",
+        "seduction",
+        "night scenes"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Müşerref Akay",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Rich contralto arabesk with emotional weight",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "heavy, sorrowful",
+      "common_themes": [
+        "maternal sacrifice",
+        "loss",
+        "endurance"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Ahmet Kaya",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Political protest vocal blending arabesk and folk",
+      "rhyme_complexity": "high",
+      "emotional_tone": "revolutionary, anguished",
+      "common_themes": [
+        "Kurdish identity",
+        "injustice",
+        "exile"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Yaşar",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Modern arabesk vocal with rock influences",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "intense, brooding",
+      "common_themes": [
+        "urban alienation",
+        "love",
+        "inner conflict"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Hasan Yılmaz",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Working-class arabesk with dolmuş-radio appeal",
+      "rhyme_complexity": "low",
+      "emotional_tone": "melancholic, simple",
+      "common_themes": [
+        "everyday sorrow",
+        "failed relationships",
+        "loneliness"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Güler Duman",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Folk-arabesk female vocal with Anatolian power",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "fiery, proud",
+      "common_themes": [
+        "honor",
+        "women's struggle",
+        "homeland"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Engin Nurşani",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Saz-driven arabesk with Alevi folk roots",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "spiritual, sorrowful",
+      "common_themes": [
+        "spirituality",
+        "justice",
+        "suffering"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Belkıs Akkale",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Folk-arabesk crossover with village authenticity",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "warm, maternal",
+      "common_themes": [
+        "village life",
+        "nature",
+        "tradition"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Yılmaz Morgül",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Pop-arabesk vocal with mainstream appeal",
+      "rhyme_complexity": "low",
+      "emotional_tone": "sentimental, accessible",
+      "common_themes": [
+        "romance",
+        "missing loved ones",
+        "memories"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Hakan Altun",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Smooth modern arabesk with sensitive delivery",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "tender, romantic",
+      "common_themes": [
+        "gentle love",
+        "devotion",
+        "sincerity"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Sinan Özen",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Pop-arabesk ballad specialist with powerful range",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "dramatic, romantic",
+      "common_themes": [
+        "epic love",
+        "painful separation",
+        "fate"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Ankaralı Turgut",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Ankara-style festive arabesk with communal energy",
+      "rhyme_complexity": "low",
+      "emotional_tone": "joyful, rowdy",
+      "common_themes": [
+        "tavern nights",
+        "friendship",
+        "dancing"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Özcan Türe",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Classic Adana arabesk with regional flavor",
+      "rhyme_complexity": "low",
+      "emotional_tone": "sorrowful, authentic",
+      "common_themes": [
+        "regional identity",
+        "love",
+        "tradition"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Ferdi Özbeğen",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Sophisticated jazz-arabesk crossover with unique phrasing",
+      "rhyme_complexity": "high",
+      "emotional_tone": "melancholic, intellectual",
+      "common_themes": [
+        "solitude",
+        "unrequited love",
+        "artistic pain"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Cengiz Kurtoğlu",
+    "genre": "arabesk",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Classic arabesk vocal with legendary emotional depth",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "anguished, romantic",
+      "common_themes": [
+        "unrequited love",
+        "separation",
+        "fate"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Bayhan",
+    "genre": "arabesk",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Modern arabesk vocal with TV-fame crossover appeal",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "sentimental, dramatic",
+      "common_themes": [
+        "heartbreak",
+        "longing",
+        "devotion"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Serkan Nişancı",
+    "genre": "arabesk",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Contemporary arabesk vocal with urban sensibility",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "emotional, modern",
+      "common_themes": [
+        "modern heartbreak",
+        "city loneliness",
+        "passion"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Rıza Tamer",
+    "genre": "arabesk",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Street arabesk vocal with raw emotional delivery",
+      "rhyme_complexity": "low",
+      "emotional_tone": "gritty, passionate",
+      "common_themes": [
+        "street sorrow",
+        "broken trust",
+        "loyalty"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Barış Manço",
+    "genre": "rock",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Theatrical vocal with Anatolian rock fusion",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "whimsical, patriotic",
+      "common_themes": [
+        "Turkish folklore",
+        "children",
+        "cultural pride"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Cem Karaca",
+    "genre": "rock",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Powerful protest-rock vocal with operatic intensity",
+      "rhyme_complexity": "high",
+      "emotional_tone": "revolutionary, passionate",
+      "common_themes": [
+        "social justice",
+        "workers' rights",
+        "freedom"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Erkin Koray",
+    "genre": "rock",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Psychedelic vocal pioneer with experimental phrasing",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "trippy, rebellious",
+      "common_themes": [
+        "freedom",
+        "experimentation",
+        "love"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Teoman",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Understated indie-rock vocal with literary quality",
+      "rhyme_complexity": "high",
+      "emotional_tone": "melancholic, poetic",
+      "common_themes": [
+        "Istanbul",
+        "loneliness",
+        "intellectual love"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Duman",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Grunge-influenced vocal with raw emotional power",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "anguished, rebellious",
+      "common_themes": [
+        "alienation",
+        "addiction",
+        "existential pain"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "maNga",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Nu-metal vocal with electronic-rock fusion",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "intense, modern",
+      "common_themes": [
+        "inner struggle",
+        "transformation",
+        "energy"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Mor ve Ötesi",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Alternative rock vocal with Eurovision polish",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "anthemic, hopeful",
+      "common_themes": [
+        "hope",
+        "change",
+        "unity"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Athena",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Ska-punk vocal with high-energy stage presence",
+      "rhyme_complexity": "low",
+      "emotional_tone": "fun, rebellious",
+      "common_themes": [
+        "youth rebellion",
+        "fun",
+        "social satire"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Pinhani",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Gentle indie-rock vocal with acoustic warmth",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "warm, romantic",
+      "common_themes": [
+        "quiet love",
+        "nature",
+        "simplicity"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Kurban",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Heavy metal vocal with Turkish melodic elements",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "dark, powerful",
+      "common_themes": [
+        "inner darkness",
+        "struggle",
+        "mythology"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Pentagram",
+    "genre": "rock",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Progressive metal vocal with technical precision",
+      "rhyme_complexity": "high",
+      "emotional_tone": "dark, complex",
+      "common_themes": [
+        "mythology",
+        "darkness",
+        "philosophical depth"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Hayko Cepkin",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Operatic metal vocal with theatrical flair",
+      "rhyme_complexity": "high",
+      "emotional_tone": "dramatic, intense",
+      "common_themes": [
+        "darkness",
+        "passion",
+        "Armenian-Turkish identity"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Şebnem Ferah",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Powerful female rock vocal with grunge edge",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "fierce, emotional",
+      "common_themes": [
+        "female empowerment",
+        "freedom",
+        "pain"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Yüksek Sadakat",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Polished alternative rock with radio appeal",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "confident, smooth",
+      "common_themes": [
+        "modern life",
+        "relationships",
+        "ambition"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Gripin",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Pop-rock vocal with accessible melodies",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "upbeat, optimistic",
+      "common_themes": [
+        "love",
+        "youth",
+        "friendship"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Kolpa",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Emotional rock vocal with powerful crescendos",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "passionate, dramatic",
+      "common_themes": [
+        "heartbreak",
+        "longing",
+        "intensity"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Model",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Clean pop-rock vocal with polished production",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "romantic, smooth",
+      "common_themes": [
+        "love",
+        "devotion",
+        "tenderness"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Kargo",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Melancholic rock vocal with poetic lyrics",
+      "rhyme_complexity": "high",
+      "emotional_tone": "wistful, literary",
+      "common_themes": [
+        "nostalgia",
+        "loss",
+        "beauty in decay"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Gökhan Türkmen",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Emotional rock-pop vocal with cinematic quality",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "dramatic, sincere",
+      "common_themes": [
+        "love",
+        "loss",
+        "hope"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Feridun Düzağaç",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Laid-back acoustic rock with jazz sensibility",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "relaxed, witty",
+      "common_themes": [
+        "everyday observations",
+        "humor",
+        "simple pleasures"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "MFÖ",
+    "genre": "rock",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Harmonized trio vocal with pop-rock polish",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "joyful, nostalgic",
+      "common_themes": [
+        "friendship",
+        "love",
+        "Turkish summer"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Moğollar",
+    "genre": "rock",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Anatolian rock pioneer with traditional instruments",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "earthy, mystical",
+      "common_themes": [
+        "Anatolian heritage",
+        "nature",
+        "mysticism"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Bulutsuzluk Özlemi",
+    "genre": "rock",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "New-wave rock vocal with 80s Bosphorus aesthetics",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "melancholic, stylish",
+      "common_themes": [
+        "urban melancholy",
+        "romance",
+        "night city"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Vega",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Post-punk vocal with dark atmospheric delivery",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "dark, brooding",
+      "common_themes": [
+        "isolation",
+        "existential dread",
+        "nocturnal life"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Nekropsi",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Experimental avant-rock with unconventional vocals",
+      "rhyme_complexity": "high",
+      "emotional_tone": "chaotic, intellectual",
+      "common_themes": [
+        "absurdism",
+        "noise",
+        "deconstruction"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Yeni Türkü",
+    "genre": "rock",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Folk-rock ensemble vocal with Aegean warmth",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "warm, communal",
+      "common_themes": [
+        "Aegean coast",
+        "peace",
+        "nature"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Can Bonomo",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Upbeat indie-rock vocal with Mediterranean charm",
+      "rhyme_complexity": "low",
+      "emotional_tone": "cheerful, quirky",
+      "common_themes": [
+        "joy",
+        "adventure",
+        "youth"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Ogün Sanlısoy",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Heavy rock vocal with blues influence",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "raw, powerful",
+      "common_themes": [
+        "freedom",
+        "pain",
+        "resistance"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Özlem Tekin",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Fierce female rock vocal with punk attitude",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "aggressive, empowered",
+      "common_themes": [
+        "rebellion",
+        "female strength",
+        "anger"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Demir Demirkan",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Blues-rock guitar-vocal with cosmopolitan style",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "smooth, soulful",
+      "common_themes": [
+        "love",
+        "travel",
+        "artistic life"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Haluk Levent",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Folk-rock vocal with activist spirit",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "empathetic, anthemic",
+      "common_themes": [
+        "charity",
+        "hope",
+        "social causes"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Kıraç",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Patriotic pop-rock vocal with anthemic delivery",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "proud, emotional",
+      "common_themes": [
+        "national pride",
+        "love",
+        "determination"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Çelik",
+    "genre": "rock",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "80s pop-rock vocal with dance-friendly energy",
+      "rhyme_complexity": "low",
+      "emotional_tone": "energetic, nostalgic",
+      "common_themes": [
+        "80s romance",
+        "dancing",
+        "youth"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Replikas",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Post-punk vocal with angular delivery",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "cold, detached",
+      "common_themes": [
+        "urban alienation",
+        "modernity",
+        "disillusion"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Fatma Turgut",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Powerful rock vocal with wide dynamic range",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "passionate, versatile",
+      "common_themes": [
+        "love",
+        "strength",
+        "vulnerability"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Seksendört",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Pop-rock vocal with youthful energy",
+      "rhyme_complexity": "low",
+      "emotional_tone": "upbeat, romantic",
+      "common_themes": [
+        "young love",
+        "summer",
+        "friendship"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Manga",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Turkish electronic-rock with world music fusion",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "intense, experimental",
+      "common_themes": [
+        "identity",
+        "technology",
+        "tradition vs modernity"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Mazhar Alanson",
+    "genre": "rock",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Witty pop-rock vocal with satirical edge",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "humorous, clever",
+      "common_themes": [
+        "social commentary",
+        "satire",
+        "everyday absurdity"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Fuat Güner",
+    "genre": "rock",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Melodic pop-rock vocal with poetic sensibility",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "romantic, refined",
+      "common_themes": [
+        "love",
+        "beauty",
+        "artistic expression"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Özkan Uğur",
+    "genre": "rock",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Eccentric rock vocal with theatrical personality",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "quirky, emotional",
+      "common_themes": [
+        "nonconformity",
+        "love",
+        "artistic freedom"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Rashit",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Raw garage-rock vocal with punk energy",
+      "rhyme_complexity": "low",
+      "emotional_tone": "aggressive, DIY",
+      "common_themes": [
+        "anger",
+        "boredom",
+        "youth frustration"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Yavuz Çetin",
+    "genre": "rock",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Blues-rock guitar virtuoso vocal",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "soulful, melancholic",
+      "common_themes": [
+        "blues",
+        "loneliness",
+        "artistic struggle"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Batu Akdeniz",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Progressive rock vocal with conceptual ambition",
+      "rhyme_complexity": "high",
+      "emotional_tone": "cerebral, dramatic",
+      "common_themes": [
+        "concept albums",
+        "mythology",
+        "time"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Çamur",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Alternative metal vocal with industrial edge",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "aggressive, experimental",
+      "common_themes": [
+        "urban chaos",
+        "technology",
+        "alienation"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Direc-t",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Pop-rock vocal with British indie influence",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "energetic, youthful",
+      "common_themes": [
+        "youth culture",
+        "love",
+        "urban stories"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Ayna",
+    "genre": "rock",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Classic Anatolian rock vocal with folk roots",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "earthy, passionate",
+      "common_themes": [
+        "tradition",
+        "love",
+        "homeland"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Kesmeşeker",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Indie-pop-rock vocal with quirky charm",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "playful, sweet",
+      "common_themes": [
+        "innocent love",
+        "whimsy",
+        "simple joy"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Zakkum",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Mediterranean rock vocal with dark poetry",
+      "rhyme_complexity": "high",
+      "emotional_tone": "dark, poetic",
+      "common_themes": [
+        "death",
+        "Aegean mythology",
+        "melancholy"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Aylin Aslım",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Alternative rock vocal with theatrical quality",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "dramatic, artistic",
+      "common_themes": [
+        "art",
+        "transformation",
+        "feminine power"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Zen",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Nu-metal vocal with heavy grooves",
+      "rhyme_complexity": "low",
+      "emotional_tone": "aggressive, heavy",
+      "common_themes": [
+        "rage",
+        "rebellion",
+        "frustration"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Uğur Işılak",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Patriotic folk-rock vocal with nationalist poetry",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "proud, passionate",
+      "common_themes": [
+        "national identity",
+        "patriotism",
+        "tradition"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Jabbar",
+    "genre": "rock",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Alternative hip-hop-rock fusion with experimental edge",
+      "rhyme_complexity": "high",
+      "emotional_tone": "intense, cerebral",
+      "common_themes": [
+        "existentialism",
+        "art",
+        "subcultural identity"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Baba Zula",
+    "genre": "alternative",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Psychedelic dub-folk with hypnotic vocal trance",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "trippy, mystical",
+      "common_themes": [
+        "Istanbul underground",
+        "Sufism",
+        "hedonism"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Gaye Su Akyol",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Vintage psychedelic-pop vocal with surreal charm",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "dreamy, provocative",
+      "common_themes": [
+        "feminism",
+        "surrealism",
+        "Turkish noir"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "She Past Away",
+    "genre": "alternative",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Cold-wave vocal with gothic monotone delivery",
+      "rhyme_complexity": "low",
+      "emotional_tone": "haunting, detached",
+      "common_themes": [
+        "death",
+        "darkness",
+        "post-industrial decay"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Jakuzi",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Synth-pop vocal with Turkish new-wave revival",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "melancholic, retro",
+      "common_themes": [
+        "urban isolation",
+        "night",
+        "failed romance"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Altın Gün",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Anatolian psych-folk with modern groove vocals",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "groovy, joyful",
+      "common_themes": [
+        "Turkish folk revival",
+        "nature",
+        "unity"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Büyük Ev Ablukada",
+    "genre": "alternative",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Experimental post-punk with absurdist delivery",
+      "rhyme_complexity": "high",
+      "emotional_tone": "chaotic, surreal",
+      "common_themes": [
+        "absurdism",
+        "urban madness",
+        "existential crisis"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Son Feci Bisiklet",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Lo-fi indie vocal with sardonic humor",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "ironic, melancholic",
+      "common_themes": [
+        "millennial angst",
+        "boredom",
+        "failed ambitions"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Yüzyüzeyken Konuşuruz",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Atmospheric indie-rock with emotional vocals",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "vulnerable, dreamy",
+      "common_themes": [
+        "modern love",
+        "anxiety",
+        "introspection"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Palmiyeler",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Tropical synth-pop vocal with retro aesthetics",
+      "rhyme_complexity": "low",
+      "emotional_tone": "nostalgic, playful",
+      "common_themes": [
+        "80s nostalgia",
+        "summer",
+        "escapism"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Ceylan Ertem",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Jazz-alternative vocal with raw emotional delivery",
+      "rhyme_complexity": "high",
+      "emotional_tone": "soulful, haunting",
+      "common_themes": [
+        "female experience",
+        "love",
+        "social awareness"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Kalben",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Acoustic alternative vocal with feminist energy",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "empowering, warm",
+      "common_themes": [
+        "self-love",
+        "nature",
+        "freedom"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Gevende",
+    "genre": "alternative",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "World-music collective vocal with rhythmic complexity",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "joyful, experimental",
+      "common_themes": [
+        "global cultures",
+        "rhythm",
+        "togetherness"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Pilli Bebek",
+    "genre": "alternative",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Funk-alternative vocal with groove-heavy delivery",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "energetic, funky",
+      "common_themes": [
+        "nightlife",
+        "groove",
+        "attitude"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Dolu Kadehi Ters Tut",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Indie-rock vocal with literary ambition",
+      "rhyme_complexity": "high",
+      "emotional_tone": "poetic, intense",
+      "common_themes": [
+        "love as literature",
+        "artistic obsession",
+        "passion"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Neyse",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Fragile indie-pop vocal with intimate delivery",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "gentle, vulnerable",
+      "common_themes": [
+        "quiet love",
+        "insecurity",
+        "soft moments"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Mert Demir",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Electro-pop vocal with dark club aesthetics",
+      "rhyme_complexity": "low",
+      "emotional_tone": "moody, nocturnal",
+      "common_themes": [
+        "night city",
+        "desire",
+        "electronic loneliness"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Melike Şahin",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Folk-alternative vocal with feminist punk edge",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "fierce, poetic",
+      "common_themes": [
+        "feminism",
+        "Anatolian identity",
+        "resistance"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Nova Norda",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Dream-pop vocal with ethereal production",
+      "rhyme_complexity": "low",
+      "emotional_tone": "dreamy, peaceful",
+      "common_themes": [
+        "inner peace",
+        "cosmos",
+        "love"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Emir Can İğrek",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Raw indie-folk vocal with Gen-Z relatability",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "honest, bittersweet",
+      "common_themes": [
+        "small-town dreams",
+        "heartbreak",
+        "growing up"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Cevdet Bağca",
+    "genre": "alternative",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Protest-folk vocal with Anatolian alternative edge",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "defiant, warm",
+      "common_themes": [
+        "workers",
+        "justice",
+        "humanist values"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Flört",
+    "genre": "alternative",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "90s Turkish alternative-rock with grunge influence",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "angsty, raw",
+      "common_themes": [
+        "90s youth",
+        "rebellion",
+        "urban decay"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Ah! Kosmos",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Electronic ambient vocal with avant-garde approach",
+      "rhyme_complexity": "low",
+      "emotional_tone": "ethereal, abstract",
+      "common_themes": [
+        "sound art",
+        "meditation",
+        "inner space"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Selda Bağcan",
+    "genre": "alternative",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Revolutionary folk vocal with psychedelic edge",
+      "rhyme_complexity": "high",
+      "emotional_tone": "passionate, rebellious",
+      "common_themes": [
+        "revolution",
+        "freedom",
+        "class struggle"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Barış K",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Minimal techno-pop vocal with deadpan delivery",
+      "rhyme_complexity": "low",
+      "emotional_tone": "cold, ironic",
+      "common_themes": [
+        "digital age",
+        "consumerism",
+        "boredom"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Ayyuka",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Psychedelic stoner-rock with thick grooves",
+      "rhyme_complexity": "low",
+      "emotional_tone": "heavy, meditative",
+      "common_themes": [
+        "cosmic journeys",
+        "nature",
+        "slow burn"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Islandman",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Anatolian electronic fusion with danceable grooves",
+      "rhyme_complexity": "low",
+      "emotional_tone": "hypnotic, warm",
+      "common_themes": [
+        "cultural fusion",
+        "dance",
+        "tradition meets electronic"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Sattas",
+    "genre": "alternative",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Reggae-dub fusion vocal with Mediterranean warmth",
+      "rhyme_complexity": "low",
+      "emotional_tone": "peaceful, conscious",
+      "common_themes": [
+        "peace",
+        "spirituality",
+        "one love"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "90BPM",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Electronic-rap hybrid vocal with experimental beats",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "dark, atmospheric",
+      "common_themes": [
+        "urban nightscape",
+        "alienation",
+        "sound design"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Adamlar",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Catchy indie-pop vocal with witty observations",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "fun, clever",
+      "common_themes": [
+        "modern dating",
+        "absurd humor",
+        "city life"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Pamela",
+    "genre": "alternative",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Pop-alternative vocal with R&B undertones",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "sultry, modern",
+      "common_themes": [
+        "desire",
+        "independence",
+        "nightlife"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Cem Adrian",
+    "genre": "alternative",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Four-octave alternative vocal with emotional extremes",
+      "rhyme_complexity": "high",
+      "emotional_tone": "devastating, ethereal",
+      "common_themes": [
+        "grief",
+        "beauty",
+        "human fragility"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Gökçen Kaynatan",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Electronic-ambient vocal with minimalist approach",
+      "rhyme_complexity": "low",
+      "emotional_tone": "calm, introspective",
+      "common_themes": [
+        "stillness",
+        "digital nature",
+        "meditation"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Karmatronic",
+    "genre": "alternative",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Electronic-rock fusion with industrial elements",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "aggressive, mechanical",
+      "common_themes": [
+        "technology",
+        "dehumanization",
+        "cyberpunk"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Güneş Taner",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Art-pop vocal with conceptual approach",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "cerebral, elegant",
+      "common_themes": [
+        "art",
+        "identity",
+        "beauty standards"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Rana Türkyılmaz",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Neo-soul alternative vocal with jazz phrasing",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "smooth, conscious",
+      "common_themes": [
+        "self-discovery",
+        "healing",
+        "cultural roots"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Kurşun",
+    "genre": "alternative",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Shoegaze vocal buried in distortion layers",
+      "rhyme_complexity": "low",
+      "emotional_tone": "hazy, melancholic",
+      "common_themes": [
+        "longing",
+        "noise",
+        "emotional blur"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Kökler",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Anatolian folk-fusion with modern alternative edge",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "earthy, innovative",
+      "common_themes": [
+        "roots music",
+        "renewal",
+        "heritage"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Lalalar",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Anatolian psych-disco with infectious grooves",
+      "rhyme_complexity": "low",
+      "emotional_tone": "funky, ecstatic",
+      "common_themes": [
+        "dance",
+        "psychedelia",
+        "Turkish retro"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Altin Gün",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Dutch-Turkish psych-folk with vintage production",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "groovy, nostalgic",
+      "common_themes": [
+        "folk tales",
+        "love",
+        "nature"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Oceanvs Orientalis",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Organic electronic with Middle Eastern vocal motifs",
+      "rhyme_complexity": "low",
+      "emotional_tone": "mystical, deep",
+      "common_themes": [
+        "sea",
+        "Orient",
+        "ancient futures"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Sedef Sebüktekin",
+    "genre": "alternative",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Ambient electronic vocal with cinematic scope",
+      "rhyme_complexity": "low",
+      "emotional_tone": "atmospheric, vast",
+      "common_themes": [
+        "landscapes",
+        "emotion as texture",
+        "cinema"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Bülent Ortaçgil",
+    "genre": "alternative",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Minimalist singer-songwriter with dry wit",
+      "rhyme_complexity": "high",
+      "emotional_tone": "understated, ironic",
+      "common_themes": [
+        "intellectual life",
+        "loneliness",
+        "subtle humor"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Fikret Kızılok",
+    "genre": "alternative",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Gentle folk-alternative vocal with poetic depth",
+      "rhyme_complexity": "high",
+      "emotional_tone": "tender, philosophical",
+      "common_themes": [
+        "nature",
+        "love",
+        "mortality"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Erkan Oğur",
+    "genre": "alternative",
+    "era": "old",
+    "style_profile": {
+      "flow_description": "Fretless guitar vocal with microtonal mastery",
+      "rhyme_complexity": "high",
+      "emotional_tone": "hypnotic, spiritual",
+      "common_themes": [
+        "Anatolian soul",
+        "mysticism",
+        "cultural bridge"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Şatellite",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Indie-electronic vocal with bilingual delivery",
+      "rhyme_complexity": "medium",
+      "emotional_tone": "dreamy, modern",
+      "common_themes": [
+        "globalization",
+        "identity crisis",
+        "digital love"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Norm Ender",
+    "genre": "alternative",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Conscious alternative-hip-hop with boom-bap revival",
+      "rhyme_complexity": "high",
+      "emotional_tone": "thoughtful, assertive",
+      "common_themes": [
+        "authenticity",
+        "craft",
+        "competition"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Tanburi Cemil Bey Revival",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Neo-classical fusion with traditional instrumentation",
+      "rhyme_complexity": "high",
+      "emotional_tone": "solemn, transcendent",
+      "common_themes": [
+        "Ottoman heritage",
+        "timelessness",
+        "spirituality"
+      ],
+      "structural_tendency": "long verse"
+    }
+  },
+  {
+    "name": "Mavi Gri",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Shoegaze-dream-pop with Turkish lyrics",
+      "rhyme_complexity": "low",
+      "emotional_tone": "hazy, romantic",
+      "common_themes": [
+        "distance",
+        "memory",
+        "emotional fog"
+      ],
+      "structural_tendency": "repetitive chorus"
+    }
+  },
+  {
+    "name": "Yok Öyle Kararlı Şeyler",
+    "genre": "alternative",
+    "era": "new",
+    "style_profile": {
+      "flow_description": "Math-rock vocal with angular rhythms",
+      "rhyme_complexity": "high",
+      "emotional_tone": "frantic, intellectual",
+      "common_themes": [
+        "chaos theory",
+        "relationships",
+        "complexity"
+      ],
+      "structural_tendency": "short hook"
+    }
+  },
+  {
+    "name": "Ceza & Dr. Fuchs",
+    "genre": "alternative",
+    "era": "middle",
+    "style_profile": {
+      "flow_description": "Experimental hip-hop duo with boundary-pushing beats",
+      "rhyme_complexity": "high",
+      "emotional_tone": "innovative, fierce",
+      "common_themes": [
+        "sonic experimentation",
+        "Turkish rap evolution",
+        "artistry"
+      ],
+      "structural_tendency": "long verse"
+    }
+  }
+]
